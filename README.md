@@ -6,5 +6,5 @@ I have attached the "COMPUTER VISION AND ML BASED PS" PDF document, which contai
 
 Additionally, for the last two coding questions:
 
-For the 6th question, I have attached the "training-vs-inference" Jupyter notebook file.
+For the 6th question, I have attached the "training-vs-inference" Jupyter notebook file./br
 For the 7th question, I have attached the "traffic-signal(2)" Jupyter notebook file.
